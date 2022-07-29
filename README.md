@@ -1,5 +1,7 @@
 # overleaf-git-sync
 
+[![Read the blog entry at c0ntroller.de](https://c0ntroller.de/img/read-blog.svg)](https://c0ntroller.de/#/project/ol-git)
+
 A script that takes an Overleaf project and pushes it to a git remote.
 It is useable without any premium membership bs.
 
